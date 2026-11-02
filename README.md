@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080D18,45:102A56,100:2563EB&text=Purnendu%20Roy&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20B.Tech%20IT&descAlignY=60&descSize=18" width="100%" alt="Purnendu Roy — Java Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+practical+software;Java+%7C+SQL+%7C+Web+Development;Learning%2C+building%2C+and+improving+every+day" alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+practical+software;Java+%7C+SQL+%7C+MySQL;Learning%2C+building%2C+and+improving+every+day" alt="Developer introduction" />
 
 <p>
   <a href="https://purnendu-portfolio-mu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -16,14 +16,14 @@
 
 ## About
 
-Hi, I'm **Purnendu Roy**, a B.Tech Information Technology graduate focused on growing as a **Java Full-Stack Developer**.
+Hi, I'm **Purnendu Roy**, an aspiring **Java Full-Stack Developer** with a B.Tech background in Information Technology (2026 cohort).
 
 I enjoy turning ideas into working applications, understanding how software works behind the interface, and improving through hands-on projects.
 
-- **Currently learning:** Core Java, object-oriented programming, SQL, and full-stack development.
-- **Interested in:** Backend development, database-driven applications, and thoughtful UI.
-- **Working style:** Learn a concept, build with it, test it, and document what I learn.
-- **Open to:** Entry-level software development opportunities and collaborative projects.
+- **Currently learning:** Core Java, object-oriented programming, SQL/MySQL, and application development.
+- **Interested in:** Backend development, database-driven applications, and thoughtful user interfaces.
+- **Education:** B.Tech in Information Technology — 2026 cohort.
+- **Open to:** Entry-level Java/software development opportunities and collaborative projects.
 
 ## Tech Stack
 
@@ -31,7 +31,8 @@ I enjoy turning ideas into working applications, understanding how software work
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -41,6 +42,7 @@ I enjoy turning ideas into working applications, understanding how software work
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -52,15 +54,15 @@ I enjoy turning ideas into working applications, understanding how software work
   <tr>
     <td width="50%" valign="top">
       <h3>🏦 Banking Management System</h3>
-      <p>A Java Swing desktop application demonstrating account management, deposits, withdrawals, transfers, transaction history, CSV statements, and local persistence.</p>
+      <p>A Java Swing desktop application with account management, deposits, withdrawals, transfers, transaction history, CSV statements, local persistence, and regression tests.</p>
       <p><strong>Java · Swing · File I/O · GitHub Actions</strong></p>
       <p><a href="https://github.com/purnendu2318/Banking-Management-System">Source code & documentation →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 Scientific Calculator</h3>
-      <p>A responsive browser calculator with scientific functions, keyboard input, calculation history, memory controls, and light/dark themes.</p>
-      <p><strong>HTML · CSS · JavaScript</strong></p>
-      <p><a href="https://purnendu2318.github.io/calculator/">Live demo</a> · <a href="https://github.com/purnendu2318/calculator">Source code</a></p>
+      <h3>🏥 MediFlow — Healthcare Management</h3>
+      <p>A Java desktop prototype with sign-in, BCrypt password verification, patient registration/search, soft deactivation, and a MySQL-backed data layer. Appointment, EMR, and billing workflows are still planned.</p>
+      <p><strong>Java 21 · Swing · JDBC · MySQL · Maven</strong></p>
+      <p><a href="https://github.com/purnendu2318/MediFlow-Healthcare-Management-System">Source code & implementation status →</a></p>
     </td>
   </tr>
   <tr>
@@ -71,21 +73,22 @@ I enjoy turning ideas into working applications, understanding how software work
       <p><a href="https://purnendu-portfolio-mu.vercel.app/">Live website</a> · <a href="https://github.com/purnendu2318/Purnendu_portfolio">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 More work</h3>
-      <p>Explore my repositories for practice, experiments, and future project updates.</p>
-      <p><a href="https://github.com/purnendu2318?tab=repositories">Browse all repositories →</a></p>
+      <h3>🧮 Scientific Calculator</h3>
+      <p>A browser calculator with scientific functions, keyboard input, calculation history, memory controls, and light/dark themes.</p>
+      <p><strong>HTML · CSS · JavaScript</strong></p>
+      <p><a href="https://purnendu2318.github.io/calculator/">Live demo</a> · <a href="https://github.com/purnendu2318/calculator">Source code</a></p>
     </td>
   </tr>
 </table>
 
-> **Project note:** The Banking Management System currently uses local Java object serialization for storage. It is an educational desktop project, not a production banking platform or a MySQL-backed application.
+> **Project transparency:** Banking Management System is an educational desktop project using local Java object serialization, not MySQL or a production banking backend. MediFlow is also an educational prototype; only the workflows listed as implemented in its README are currently available.
 
 ## What I'm Working On
 
-- Strengthening Java fundamentals and object-oriented programming.
-- Practising SQL queries and relational database concepts.
-- Improving problem-solving and writing maintainable code.
-- Building projects that demonstrate complete workflows, not just UI screens.
+- Strengthening Java fundamentals, object-oriented programming, and problem-solving.
+- Practising SQL and relational database design through hands-on applications.
+- Improving validation, testing, maintainability, and project documentation.
+- Building complete workflows and clearly separating implemented features from planned work.
 
 ## GitHub Activity
 
